@@ -1,0 +1,8 @@
+User-Agent: * 
+Disallow: /product_qanda/
+Disallow: /category/s?keyword=
+Disallow: /blog/wp-admin/ 
+Allow: /blog/wp-admin/admin-ajax.php 
+
+Sitemap: https://www.naturecity.com/sitemap.xml
+Sitemap: https://www.naturecity.com/blog/sitemap_index.xml
