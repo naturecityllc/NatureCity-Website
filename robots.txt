@@ -6,5 +6,3 @@ Allow: /blog/wp-admin/admin-ajax.php
 
 Sitemap: https://www.naturecity.com/sitemap.xml
 Sitemap: https://www.naturecity.com/blog/sitemap_index.xml
-
-#test
